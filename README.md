@@ -1,8 +1,7 @@
 # CTF
 
 
-# CTF-TIME.ORG-PROFILE
-[lINK](https://ctftime.org/team/179378)
+
 
 
 # ScoreBoard
